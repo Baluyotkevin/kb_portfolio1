@@ -37,7 +37,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "A passion for developing innovative solutions",
+    title: "Passionate about developing innovative solutions, especially those that make a positive impact in people's lives",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
