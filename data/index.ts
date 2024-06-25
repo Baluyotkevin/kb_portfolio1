@@ -144,4 +144,4 @@ export const socialMedia = [
   },
 ];
 
-export const description = ["Full Stack Developer", "Professional Dancer"]
+export const description = ["Full Stack Developer", "Professional Dancer", "Backend Developer", "Frontend Developer"]
