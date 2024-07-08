@@ -80,7 +80,7 @@ export const projects = [
   {
     id: 2,
     title: "Crystal Cash",
-    des: 'Unlock Your Financial Future with CrystalCash: Where Clarity Meets Convenience!',
+    des: 'Unlock your financial future with CrystalCash!',
     img: '/crystalcash.png',
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/appwrite.svg", "/plaid.svg"],
     link: "https://crystalcash.vercel.app/"
