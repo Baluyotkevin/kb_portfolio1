@@ -79,6 +79,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Crystal Cash",
+    des: 'Unlock Your Financial Future with CrystalCash: Where Clarity Meets Convenience!',
+    img: '/crystalcash.png',
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/appwrite.svg", "/plaid.svg"],
+    link: "https://crystalcash.vercel.app/"
+  },
+  {
+    id: 3,
     title: "MLS",
     des: "MLS (My Love Story), the ultimate destination for expressing and exploring love in every shape and form.",
     img: "/MLS.png",
@@ -86,7 +94,7 @@ export const projects = [
     link: "https://mlscapstone.onrender.com/",
   },
   {
-    id: 3,
+    id: 4,
     title: "taskPanda",
     des: "An application that allows users to hire taskers in order for their tasks to be completed",
     img: "/taskPanda.jpeg",
