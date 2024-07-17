@@ -79,7 +79,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Crystal Cash",
+    title: "CrystalCash",
     des: 'Unlock your financial future with CrystalCash!',
     img: '/crystalcash.png',
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/appwrite.svg", "/plaid.svg"],
@@ -152,4 +152,4 @@ export const socialMedia = [
   },
 ];
 
-export const description = ["Full Stack Developer", "Professional Dancer", "Backend Developer", "Frontend Developer"]
+export const description = ["Software Engineer", "Full Stack Developer", "Professional Dancer", "Backend Developer", "Frontend Developer"]
