@@ -12,7 +12,7 @@ export default withSentryConfig(nextConfig, {
 // https://github.com/getsentry/sentry-webpack-plugin#options
 
 org: "kb-c0",
-project: "javascript-nextjs",
+project: "portfolio-sentry",
 
 // Only print logs for uploading source maps in CI
 silent: !process.env.CI,

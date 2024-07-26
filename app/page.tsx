@@ -16,7 +16,7 @@ export default function Home() {
         <About />
         <Grid />
         <RecentProjects />
-        <Approach />
+        {/* <Approach /> */}
         <Footer />
       </div> 
     </main>
