@@ -114,7 +114,7 @@ export const aboutMe = [
   {
     id: 2,
     title: "Tech Stack",
-    desc: "HTML, CSS, Git, JavaScript, Python, Flask, SQLAlchemy, NextJS, React, SQL, TypeScript, Express, NodeJS, Docker, AWS, C#, Java, Stripe, Postgres, MongoDB, React Native, Redux, Cypress, Socket.IO, SQLite, PHP, SQL, Postman",
+    desc: "HTML, CSS, Git, JavaScript, Python, Flask, SQLAlchemy, NextJS, React, SQL, TypeScript, Express, NodeJS, Docker, AWS, C#, Java, Stripe, Postgres, MongoDB, React Native, Redux, Cypress, Socket.IO, SQLite, PHP, SQL, Postmanm, Prisma",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
