@@ -71,6 +71,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "KBAIPrep",
+    des: 'KBAIPrep, an AI-powered platform for preparing for mock interviews',
+    img: '/KBAIPrep.png',
+    iconLists: ["/next.svg", "/tail.svg", "/typescript.svg", "/geminiai.svg", "/firebase.svg"],
+    link: "https://kbaiprep.vercel.app/"
+  },
+  {
+    id: 2,
     title: "KBManage",
     des: "KBManage, a digital tool designed to help teams organize, track, and manage projects effectively from start to finish",
     img: "/KBManage.png",
@@ -78,7 +86,7 @@ export const projects = [
     link: "https://main.d13bcfoqstwvih.amplifyapp.com/",
   },
   {
-    id: 2,
+    id: 3,
     title: "EventMeet",
     des: "Create your own events and purchase tickets to attend other events!",
     img: "/eventmeet.png",
@@ -86,7 +94,7 @@ export const projects = [
     link: "https://event-app-bay-kappa.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "CrystalCash",
     des: 'Unlock your financial future with CrystalCash!',
     img: '/crystalcash.png',
@@ -94,7 +102,7 @@ export const projects = [
     link: "https://crystalcash.vercel.app/"
   },
   {
-    id: 4,
+    id: 5,
     title: "MLS",
     des: "MLS (My Love Story), the ultimate destination for expressing and exploring love in every shape and form.",
     img: "/MLS.png",
@@ -102,7 +110,7 @@ export const projects = [
     link: "https://mlscapstone.onrender.com/",
   },
   {
-    id: 5,
+    id: 6,
     title: "taskPanda",
     des: "An application that allows users to hire taskers in order for their tasks to be completed",
     img: "/taskPanda.jpeg",
