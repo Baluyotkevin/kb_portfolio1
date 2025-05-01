@@ -74,7 +74,7 @@ export const projects = [
     title: "KBAIPrep",
     des: 'KBAIPrep, an AI-powered platform for preparing for mock interviews',
     img: '/KBAIPrep.png',
-    iconLists: ["/next.svg", "/tail.svg", "/typescript.svg", "/geminiai.svg", "/firebase.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/geminiai.svg", "/firebase.svg"],
     link: "https://kbaiprep.vercel.app/"
   },
   {
